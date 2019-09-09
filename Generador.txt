@@ -1,0 +1,30 @@
+<carpeta>
+    <nombre>ED-Proyecto</nombre>
+    <lista_sub_carpetas>
+        <carpeta>
+            <nombre>Jars</nombre>
+            <archivo>ED-DriveEjecutable.jar</archivo>
+        </carpeta>
+        <carpeta>
+            <nombre>Fuentes</nombre>
+            <lista_sub_carpetas>
+                <carpeta>
+                    <nombre>TDAPila</nombre>
+                    <archivo>Stack.java</archivo>
+                    <archivo>PilaArreglo.java</archivo>
+                    <archivo>EmptyStackException.java</archivo>
+                </carpeta>
+            </lista_sub_carpetas>
+        </carpeta>
+        <carpeta>
+            <nombre>Documentacion</nombre>
+            <archivo>Manual-De-Usuario.pdf</archivo>
+            <lista_sub_carpetas>
+                <carpeta>
+                    <nombre>Javadoc</nombre>
+                    <archivo>Index.html</archivo>
+                </carpeta>               
+            </lista_sub_carpetas>         
+        </carpeta>
+    </lista_sub_carpetas>
+</carpeta>
